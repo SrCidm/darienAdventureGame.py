@@ -14,8 +14,8 @@ Welcome to **"Crossing the Darién"**, a text-based adventure game where you mus
 
 1. **Clone the repository**
    ```sh
-   git clone 
-   cd 
+   git clone https://github.com/SrCidm/darienAdventureGame.py.git
+   cd darienAdventureGame.py
 
 🏆 Winning Strategy
 
